@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04aaf9873266e462",
+        "id": "9c87ef10dbaeeb4a",
         "type": "tabs",
         "children": [
           {
-            "id": "f93cfbd82f765787",
+            "id": "1ff3ce427821cc89",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,13 +136,33 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "731175c5bfd9e781",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "d76ae34232c66fb2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,9 +171,16 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f93cfbd82f765787",
-  "lastOpenFiles": []
+  "active": "731175c5bfd9e781",
+  "lastOpenFiles": [
+    "4- Arquivos",
+    "3- Recursos",
+    "2 - Areas",
+    "1 - Projetos"
+  ]
 }
