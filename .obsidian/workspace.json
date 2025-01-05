@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c87ef10dbaeeb4a",
+        "id": "39289d3c508cd177",
         "type": "tabs",
         "children": [
           {
-            "id": "1ff3ce427821cc89",
+            "id": "ddb00d001b0d971c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"Status\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,6 +148,27 @@
             }
           },
           {
+            "id": "7770dce6dc2abdc2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "89e9289e07fce6bf",
+        "type": "tabs",
+        "children": [
+          {
             "id": "d76ae34232c66fb2",
             "type": "leaf",
             "state": {
@@ -157,12 +178,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +198,11 @@
   },
   "active": "731175c5bfd9e781",
   "lastOpenFiles": [
+    "1 - Projetos/S-34_T_183.md",
+    "Modelos/discursos-publicos.md",
+    "1 - Projetos/Untitled.md",
+    "Sem título.md",
+    "Modelos",
     "4- Arquivos",
     "3- Recursos",
     "2 - Areas",

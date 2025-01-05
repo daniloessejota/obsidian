@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Título": "text",
+    "Número": "number",
+    "Criado": "date",
+    "Modificado": "date",
+    "Prazo": "date",
+    "Status": "checkbox",
+    "Cântico": "number",
+    "Finalizado": "checkbox"
+  }
+}
