@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39289d3c508cd177",
+        "id": "1f2e61f3a53d5505",
         "type": "tabs",
         "children": [
           {
-            "id": "ddb00d001b0d971c",
+            "id": "db4f556a04fac9cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Projetos/S-211-25-T.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "S-211-25-T"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "114b2c7e09e09d73",
@@ -157,8 +162,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           }
         ],
@@ -198,10 +203,12 @@
   },
   "active": "731175c5bfd9e781",
   "lastOpenFiles": [
-    "1 - Projetos/S-34_T_183.md",
     "Modelos/discursos-publicos.md",
+    "1 - Projetos/S-211-25-T.md",
+    "1 - Projetos/S-34_T_183.md",
+    "teste.md",
+    "1 - Projetos/Sem título.md",
     "1 - Projetos/Untitled.md",
-    "Sem título.md",
     "Modelos",
     "4- Arquivos",
     "3- Recursos",
