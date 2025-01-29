@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f2e61f3a53d5505",
+        "id": "96dd4c44550012dc",
         "type": "tabs",
         "children": [
           {
-            "id": "db4f556a04fac9cc",
+            "id": "0b561c310eb7c4db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -201,11 +201,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "731175c5bfd9e781",
+  "active": "0b561c310eb7c4db",
   "lastOpenFiles": [
     "Modelos/discursos-publicos.md",
     "1 - Projetos/S-211-25-T.md",
     "1 - Projetos/S-34_T_183.md",
+    "Sem título.md",
     "teste.md",
     "1 - Projetos/Sem título.md",
     "1 - Projetos/Untitled.md",
