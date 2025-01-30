@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "96dd4c44550012dc",
+        "id": "cee3f70dc744f7c1",
         "type": "tabs",
         "children": [
           {
-            "id": "0b561c310eb7c4db",
+            "id": "00475cb167c09b6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Projetos/S-211-25-T.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "S-211-25-T"
+              "title": "Nova aba"
             }
           }
         ]
@@ -201,10 +197,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b561c310eb7c4db",
+  "active": "00475cb167c09b6b",
   "lastOpenFiles": [
-    "Modelos/discursos-publicos.md",
     "1 - Projetos/S-211-25-T.md",
+    "Modelos/discursos-publicos.md",
     "1 - Projetos/S-34_T_183.md",
     "Sem título.md",
     "teste.md",
