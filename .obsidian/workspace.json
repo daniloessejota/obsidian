@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "142bebe54aaae3cb",
+        "id": "7b058688a8b86a4f",
         "type": "tabs",
         "children": [
           {
-            "id": "68581ed74de9778f",
+            "id": "dded80a28d49e1ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Projetos/S-34_T_183.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "S-34_T_183"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "114b2c7e09e09d73",
@@ -197,7 +202,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68581ed74de9778f",
+  "active": "dded80a28d49e1ea",
   "lastOpenFiles": [
     "1 - Projetos/S-34_T_183.md",
     "Sem título.md",
